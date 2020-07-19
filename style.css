@@ -1,0 +1,11 @@
+awesome-input::part(awesome-label) {
+	--font-size: 14px;
+	font-size: var(--font-size);
+}
+
+
+awesome-input::part(awesome-input) {
+	--font-size: 18px;
+	font-size: var(--font-size);
+}
+

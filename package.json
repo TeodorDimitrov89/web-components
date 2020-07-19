@@ -1,0 +1,19 @@
+{
+  "name": "awesome-input",
+  "version": "0.0.1",
+  "description": "awesome-input",
+  "main": "awesomeInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeodorDimitrov89/web-components.git"
+  },
+  "author": "TeodorDimitrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeodorDimitrov89/web-components/issues"
+  },
+  "homepage": "https://github.com/TeodorDimitrov89/web-components#readme"
+}
